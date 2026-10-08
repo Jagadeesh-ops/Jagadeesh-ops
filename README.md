@@ -1,29 +1,37 @@
-Hi, I'm Jagadeesh S N 👋
-Salesforce QA Engineer | Test Automation | API & Integration Testing | BFSI
+# Hi, I'm Jagadeesh S N 👋
 
-Salesforce QA Engineer with 5 years of experience in software quality assurance, Salesforce testing, test automation, API testing, integration testing, regression testing, and release validation.
+### Salesforce QA Engineer | Test Automation | API & Integration Testing | BFSI
 
-🔧 Skills
-Salesforce: Sales Cloud, Service Cloud, Experience Cloud, SOQL, Salesforce Inspector, Workbench
-Testing: Functional, Regression, Integration, UAT, End-to-End, Migration Testing
-Automation: Playwright, Tricentis Tosca, Provar, Copado Robotic Testing
-API & Integration: Postman, Boomi, API Testing
-Tools: Azure DevOps
-Domain: BFSI
-🚀 Projects
-Playwright Automation — Web automation and end-to-end testing
-Salesforce Decommissioning — Salesforce functionality, integration, and data-flow validation
-Playwright_Learnautomation — Playwright automation practice and learning
-📜 Certifications
-Salesforce Certified Administrator
-Copado Robotic Testing
-Provar Automation Essentials
-Provar Automation Advanced
-Tricentis Automation Specialist Level 1
-Tricentis Automation Specialist Level 2
-🔗 Connect With Me
-LinkedIn: Jagadeesh S N
-Portfolio: jagadeesh-ops.github.io
-Salesforce Trailblazer: Salesforce Trailblazer Profile
+Salesforce QA Engineer with **5 years of experience**...
 
-Salesforce QA • Test Automation • API Testing • Integration Testing
+## 🔧 Skills
+
+- **Salesforce:** Sales Cloud, Service Cloud, Experience Cloud
+- **Testing:** Functional, Regression, Integration, UAT
+- **Automation:** Playwright, Tricentis Tosca, Provar
+- **API & Integration:** Postman, Boomi
+- **Tools:** Azure DevOps
+- **Domain:** BFSI
+
+## 🚀 Projects
+
+- **Playwright Automation** — Web automation and end-to-end testing
+- **Salesforce Decommissioning** — Salesforce functionality and integration validation
+- **Playwright_Learnautomation** — Playwright automation practice
+
+## 📜 Certifications
+
+- Salesforce Certified Administrator
+- Copado Robotic Testing
+- Provar Automation Essentials
+- Provar Automation Advanced
+- Tricentis Automation Specialist Level 1
+- Tricentis Automation Specialist Level 2
+
+## 🔗 Connect With Me
+
+- **LinkedIn:** [Jagadeesh S N](https://www.linkedin.com/in/jagadeesh-s-n-ab414316b/)
+- **Portfolio:** [jagadeesh-ops.github.io](https://jagadeesh-ops.github.io)
+- **Salesforce Trailblazer:** [Salesforce Trailblazer Profile](https://www.salesforce.com/trailblazer/profile)
+
+
